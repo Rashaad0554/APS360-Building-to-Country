@@ -1,6 +1,6 @@
 # APS360-Building-to-Country
 
-split_data.py splits the dataset into training, validation, and test.\\
-scraper.py contains the scraper used to collect the dataset.\\
-primary_model (1).ipynb has the final state of the primary model as well as the code to split the dataset into training, validation, and test.\\
+split_data.py splits the dataset into training, validation, and test.\
+scraper.py contains the scraper used to collect the dataset.\
+primary_model (1).ipynb has the final state of the primary model.\
 baseline.ipynb has the K-NN baseline using the collected dataset.
